@@ -1,0 +1,5 @@
+# Minimal config. Running `supabase init` will not overwrite this if you keep it.
+project_id = "rojgaar"
+
+[functions.razorpay-webhook]
+verify_jwt = false
